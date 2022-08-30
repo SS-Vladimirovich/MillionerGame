@@ -1,0 +1,200 @@
+[
+ {
+   "text": "Что, как уверяет пословица, должна покинуть баба, чтобы облегчить жизнь лошади?",
+   "custom": false,
+   "answers": [
+     {
+       "answer": "ВОЗ",
+       "correct": true
+     },
+     {
+       "answer": "ипподром",
+       "correct": false
+     },
+     {
+       "answer": "корабль",
+       "correct": false
+     },
+     {
+       "answer": "корабль",
+       "correct": false
+     }
+   ]
+ },
+ {
+   "text": "В каком из этих фильмов Марка Захарова снимался Александр Абдулов, но не снимался Олег Янковский?",
+   "custom": false,
+   "answers": [
+     {
+       "answer": "«12 стульев»",
+       "correct": true
+     },
+     {
+       "answer": "«Дом, который построил Свифт»",
+       "correct": false
+     },
+     {
+       "answer": "«Обыкновенное чудо»",
+       "correct": false
+     },
+     {
+       "answer": "«Убить дракона»",
+       "correct": false
+     }
+   ]
+ },
+ {
+   "text": "Какая церковь находится на территории Московского Кремля?",
+   "custom": false,
+   "answers": [
+     {
+       "answer": "Александра Пересвета",
+       "correct": false
+     },
+     {
+       "answer": "Феодора Стратилата",
+       "correct": false
+     },
+     {
+       "answer": "Иоанна Лествичника",
+       "correct": true
+     },
+     {
+       "answer": "Симеона Столпника",
+       "correct": false
+     }
+   ]
+ },
+ {
+   "text": "Из чего на масленичном фестивале во французском городе Ментоне делают огромные скульптуры?",
+   "custom": false,
+   "answers": [
+     {
+       "answer": "из тыквы",
+       "correct": false
+     },
+     {
+       "answer": "из яблок",
+       "correct": false
+     },
+     {
+       "answer": "из сыра",
+       "correct": false
+     },
+     {
+       "answer": "из цитрусов",
+       "correct": true
+     }
+   ]
+ },
+ {
+   "text": "Какой элемент получил свое название из-за синей линии в его спектре?",
+   "custom": false,
+   "answers": [
+     {
+       "answer": "родий",
+       "correct": false
+     },
+     {
+       "answer": "церий",
+       "correct": false
+     },
+     {
+       "answer": "индий",
+       "correct": true
+     },
+     {
+       "answer": "нептуний",
+       "correct": false
+     }
+   ]
+ },
+ {
+   "text": "Что итальянцы называют «мадоннари»?",
+   "custom": false,
+   "answers": [
+     {
+       "answer": "период в искусстве",
+       "correct": false
+     },
+     {
+       "answer": "сорт яблок",
+       "correct": false
+     },
+     {
+       "answer": "рисунки на асфальте",
+       "correct": true
+     },
+     {
+       "answer": "вуаль",
+       "correct": false
+     }
+   ]
+ },
+ {
+   "text": "Какой мультфильм Уолт Дисней передал Советскому Союзу в честь победы во Второй мировой войне?",
+   "custom": false,
+   "answers": [
+     {
+       "answer": "«Бэмби»",
+       "correct": true
+     },
+     {
+       "answer": "«Белоснежка и семь гномов»",
+       "correct": false
+     },
+     {
+       "answer": "«Привет, друзья!»",
+       "correct": false
+     },
+     {
+       "answer": "«Дамбо»",
+       "correct": false
+     }
+   ]
+ },
+ {
+   "text": "Участники какой группы записали песню, которую случайно нашли на чердаке дома в Великобритании в ноябре 2021 года?",
+   "custom": false,
+   "answers": [
+     {
+       "answer": "«Битлз»",
+       "correct": true
+     },
+     {
+       "answer": "«Квин»",
+       "correct": false
+     },
+     {
+       "answer": "«Роллинг стоунз»",
+       "correct": false
+     },
+     {
+       "answer": "«Пинк флойд»",
+       "correct": false
+     }
+   ]
+ },
+ {
+   "text": "Какой из этих минералов обладает большей твердостью по шкале Мооса?",
+   "custom": false,
+   "answers": [
+     {
+       "answer": "аквамарин",
+       "correct": true
+     },
+     {
+       "answer": "кварц",
+       "correct": false
+     },
+     {
+       "answer": "опал",
+       "correct": false
+     },
+     {
+       "answer": "тигровый глаз",
+       "correct": false
+     }
+   ]
+ }
+ ]
